@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240082
+# Name: Mahith M
+# Date: 22/08/2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="715" height="530" alt="image" src="https://github.com/user-attachments/assets/7939a29b-54c0-42f1-afcd-e81df2307845" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="717" height="551" alt="image" src="https://github.com/user-attachments/assets/6f249b96-ba19-4656-8f0f-da89649ebd36" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="715" height="548" alt="image" src="https://github.com/user-attachments/assets/b427f992-f9ad-4382-8493-b04624330ebb" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="713" height="550" alt="image" src="https://github.com/user-attachments/assets/39ee4f5a-2ae2-4b84-9828-611902888243" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="711" height="555" alt="image" src="https://github.com/user-attachments/assets/dffcca69-b913-43c1-960a-0d8faddab8af" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="713" height="549" alt="image" src="https://github.com/user-attachments/assets/5b2d9e27-9305-4dd8-9f50-10567b7e772a" />
 
 
 
@@ -126,4 +132,5 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Railway Reservation system was developed using Star UML Software is done successfully.
+
 
